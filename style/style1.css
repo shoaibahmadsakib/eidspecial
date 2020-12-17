@@ -1,0 +1,51 @@
+body{
+  background:black;
+}
+/*first page style*/
+.sakib-style{
+  color: white;
+  text-align: center;
+
+}
+.sakib-1{
+
+}
+.back-ground{
+  text-align: center;
+  color: white;
+  padding: 115px;
+  font-family: Helvetica;
+  font-size: 2;
+  font-size: 4rem;
+  border-top: 2px solid;
+
+  
+}
+/*end style */
+#stape-1, #stape-2 {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+  }
+  
+  #stape-2 {
+    padding: 50px;
+    display: none;
+    background-color: rgba(49, 145, 189, 0.527);
+  }
+  #button, #inside {
+    padding: 5px;
+    text-align: center;
+    
+    border: solid 1px #c3c3c3;
+  }
+  
+  #inside {
+    padding: 50px;
+    display: none;
+    background-color: #080a01;
+  }
